@@ -1,0 +1,12 @@
+<section class="contact-hero">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-6">
+        <div class="contact-hero-content">
+          <h1 data-rosey="{{ .title | anchorize }}">{{.title}}</h1>
+          <p data-rosey-ns="markdown" data-rosey="{{ .description | anchorize }}">{{.description | markdownify }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
