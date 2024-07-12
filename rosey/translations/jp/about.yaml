@@ -2,17 +2,17 @@ urlTranslation: about/index.html
 _inputs:
   $:
     type: object
-    comment: "[See about/](https://polite-viper.cloudvent.net/about/)"
+    comment: "[See about/](https://direct-cavern.cloudvent.net/about/)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (jp)
           comment: Text to translate on
-            [about/](https://polite-viper.cloudvent.net/about/)
+            [about/](https://direct-cavern.cloudvent.net/about/)
           inputs: []
         - heading: Already translated (jp)
           comment: Text already translated on
-            [about/](https://polite-viper.cloudvent.net/about/)
+            [about/](https://direct-cavern.cloudvent.net/about/)
           inputs:
             - about
             - active-users-and-growing
@@ -55,163 +55,165 @@ _inputs:
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/about/#:~:text=About)"
+    comment: "[See on page](https://direct-cavern.cloudvent.net/about/#:~:text=About)"
   active-users-and-growing:
     label: Active users and growing
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/about/#:~:text=Active%20users%20\
-      and%20growing)"
+      page](https://direct-cavern.cloudvent.net/about/#:~:text=Active%20users%2\
+      0and%20growing)"
   all-articles:
     label: All Articles
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/about/#:~:text=All%20Articles)"
+      page](https://direct-cavern.cloudvent.net/about/#:~:text=All%20Articles)"
   amazing-team-members:
     label: Amazing team members
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/about/#:~:text=Amazing%20team%20\
-      members)"
+      page](https://direct-cavern.cloudvent.net/about/#:~:text=Amazing%20team%2\
+      0members)"
   blog:
     label: Blog
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/about/#:~:text=Blog)"
+    comment: "[See on page](https://direct-cavern.cloudvent.net/about/#:~:text=Blog)"
   built-for-your:
     label: Built for your Business
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/about/#:~:text=Built%20for%20you\
-      r%20Business)"
+      page](https://direct-cavern.cloudvent.net/about/#:~:text=Built%20for%20yo\
+      ur%20Business)"
   business:
     label: Business
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/about/#:~:text=Business)"
+    comment: "[See on
+      page](https://direct-cavern.cloudvent.net/about/#:~:text=Business)"
   cmo:
     label: CMO
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/about/#:~:text=CMO)"
+    comment: "[See on page](https://direct-cavern.cloudvent.net/about/#:~:text=CMO)"
   co-founder--ceo:
     label: Co-Founder  CEO
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/about/#:~:text=Co-Founder%20%20C\
-      EO)"
+      page](https://direct-cavern.cloudvent.net/about/#:~:text=Co-Founder%20%20\
+      CEO)"
   co-founder--cto:
     label: Co-founder  CTO
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/about/#:~:text=Co-founder%20%20C\
-      TO)"
+      page](https://direct-cavern.cloudvent.net/about/#:~:text=Co-founder%20%20\
+      CTO)"
   community:
     label: Community
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/about/#:~:text=Community)"
+      page](https://direct-cavern.cloudvent.net/about/#:~:text=Community)"
   company:
     label: Company
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/about/#:~:text=Company)"
+    comment: "[See on page](https://direct-cavern.cloudvent.net/about/#:~:text=Company)"
   contact:
     label: Contact
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/about/#:~:text=Contact)"
+    comment: "[See on page](https://direct-cavern.cloudvent.net/about/#:~:text=Contact)"
   cro:
     label: CRO
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/about/#:~:text=CRO)"
+    comment: "[See on page](https://direct-cavern.cloudvent.net/about/#:~:text=CRO)"
   established-in:
     label: Established in
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/about/#:~:text=Established%20in)"
+      page](https://direct-cavern.cloudvent.net/about/#:~:text=Established%20in\
+      )"
   feature:
     label: Feature
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/about/#:~:text=Feature)"
+    comment: "[See on page](https://direct-cavern.cloudvent.net/about/#:~:text=Feature)"
   follow-on-linkedin:
     label: Follow on Linkedin
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/about/#:~:text=Follow%20on%20Lin\
-      kedin)"
+      page](https://direct-cavern.cloudvent.net/about/#:~:text=Follow%20on%20Li\
+      nkedin)"
   head-of-design:
     label: Head of Design
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/about/#:~:text=Head%20of%20Desig\
-      n)"
+      page](https://direct-cavern.cloudvent.net/about/#:~:text=Head%20of%20Desi\
+      gn)"
   head-of-marketing:
     label: Head of Marketing
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/about/#:~:text=Head%20of%20Marke\
-      ting)"
+      page](https://direct-cavern.cloudvent.net/about/#:~:text=Head%20of%20Mark\
+      eting)"
   head-of-people:
     label: Head of People
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/about/#:~:text=Head%20of%20Peopl\
-      e)"
+      page](https://direct-cavern.cloudvent.net/about/#:~:text=Head%20of%20Peop\
+      le)"
   head-of-sales:
     label: Head of Sales
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/about/#:~:text=Head%20of%20Sales\
-      )"
+      page](https://direct-cavern.cloudvent.net/about/#:~:text=Head%20of%20Sale\
+      s)"
   home:
     label: Home
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/about/#:~:text=Home)"
+    comment: "[See on page](https://direct-cavern.cloudvent.net/about/#:~:text=Home)"
   main-pages:
     label: Main Pages
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/about/#:~:text=Main%20Pages)"
+      page](https://direct-cavern.cloudvent.net/about/#:~:text=Main%20Pages)"
   markdown:our-team-has-decades-of-experience-working-with-email-marketing-campaigns-and-were-passionate-about-helping-you-connect-with-your-customers:
     label: Our team has decades of experience working...
     hidden: false
@@ -234,8 +236,8 @@ _inputs:
       horizontalrule: true
       image: true
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/about/#:~:text=Our%20team%20has,\
-      with%20your%20customers)"
+      page](https://direct-cavern.cloudvent.net/about/#:~:text=Our%20team%20has\
+      ,with%20your%20customers)"
     context:
       open: false
       title: Untranslated Text
@@ -265,8 +267,8 @@ _inputs:
       horizontalrule: true
       image: true
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/about/#:~:text=We%E2%80%99re%20h\
-      ere%20to,grow%20your%20business)"
+      page](https://direct-cavern.cloudvent.net/about/#:~:text=We%E2%80%99re%20\
+      here%20to,grow%20your%20business)"
     context:
       open: false
       title: Untranslated Text
@@ -295,8 +297,8 @@ _inputs:
       horizontalrule: true
       image: true
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/about/#:~:text=We%E2%80%99ve%20b\
-      uilt%20Sendit,your%20business%20faster)"
+      page](https://direct-cavern.cloudvent.net/about/#:~:text=We%E2%80%99ve%20\
+      built%20Sendit,your%20business%20faster)"
     context:
       open: false
       title: Untranslated Text
@@ -308,74 +310,74 @@ _inputs:
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/about/#:~:text=Marketing)"
+      page](https://direct-cavern.cloudvent.net/about/#:~:text=Marketing)"
   on-a-mission-to-change-email-marketing:
     label: On a mission to change email marketing
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/about/#:~:text=On%20a%20mission,\
-      change%20email%20marketing)"
+      page](https://direct-cavern.cloudvent.net/about/#:~:text=On%20a%20mission\
+      ,change%20email%20marketing)"
   our-leadership-team:
     label: Our leadership team
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/about/#:~:text=Our%20leadership%\
-      20team)"
+      page](https://direct-cavern.cloudvent.net/about/#:~:text=Our%20leadership\
+      %20team)"
   price:
     label: Price
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/about/#:~:text=Price)"
+    comment: "[See on page](https://direct-cavern.cloudvent.net/about/#:~:text=Price)"
   pricing:
     label: Pricing
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/about/#:~:text=Pricing)"
+    comment: "[See on page](https://direct-cavern.cloudvent.net/about/#:~:text=Pricing)"
   privacy-and-policy:
     label: Privacy and Policy
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/about/#:~:text=Privacy%20and%20P\
-      olicy)"
+      page](https://direct-cavern.cloudvent.net/about/#:~:text=Privacy%20and%20\
+      Policy)"
   technology:
     label: Technology
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/about/#:~:text=Technology)"
+      page](https://direct-cavern.cloudvent.net/about/#:~:text=Technology)"
   try-this-free:
     label: Try This Free
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/about/#:~:text=Try%20This%20Free\
-      )"
+      page](https://direct-cavern.cloudvent.net/about/#:~:text=Try%20This%20Fre\
+      e)"
   venture-capital-raised:
     label: Venture capital raised
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/about/#:~:text=Venture%20capital\
-      %20raised)"
+      page](https://direct-cavern.cloudvent.net/about/#:~:text=Venture%20capita\
+      l%20raised)"
   we-love-what-we-do:
     label: We love what we do
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/about/#:~:text=We%20love%20what%\
-      20we%20do)"
+      page](https://direct-cavern.cloudvent.net/about/#:~:text=We%20love%20what\
+      %20we%20do)"
 about: について
 active-users-and-growing: アクティブユーザーが増加中
 all-articles: すべての記事

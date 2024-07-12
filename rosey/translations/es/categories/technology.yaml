@@ -3,21 +3,21 @@ _inputs:
   $:
     type: object
     comment: "[See
-      categories/technology/](https://polite-viper.cloudvent.net/categories/tec\
-      hnology/)"
+      categories/technology/](https://direct-cavern.cloudvent.net/categories/te\
+      chnology/)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (es)
           comment: Text to translate on
-            [categories/technology/](https://polite-viper.cloudvent.net/categories/technology/)
+            [categories/technology/](https://direct-cavern.cloudvent.net/categories/technology/)
           inputs:
             - /TCP1dl7vw+zdvDuWYcPyAdWbbAHjTtIGyJwf/f/KfU
             - blog
             - marketing
         - heading: Already translated (es)
           comment: Text already translated on
-            [categories/technology/](https://polite-viper.cloudvent.net/categories/technology/)
+            [categories/technology/](https://direct-cavern.cloudvent.net/categories/technology/)
           inputs:
             - about
             - all-articles
@@ -38,127 +38,128 @@ _inputs:
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/categories/technology/#:~:text=)"
+      page](https://direct-cavern.cloudvent.net/categories/technology/#:~:text=\
+      )"
   about:
     label: About
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/categories/technology/#:~:text=A\
-      bout)"
+      page](https://direct-cavern.cloudvent.net/categories/technology/#:~:text=\
+      About)"
   all-articles:
     label: All Articles
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/categories/technology/#:~:text=A\
-      ll%20Articles)"
+      page](https://direct-cavern.cloudvent.net/categories/technology/#:~:text=\
+      All%20Articles)"
   best-email-sending-services:
     label: Best email sending services
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/categories/technology/#:~:text=B\
-      est%20email%20sending%20services)"
+      page](https://direct-cavern.cloudvent.net/categories/technology/#:~:text=\
+      Best%20email%20sending%20services)"
   blog:
     label: Blog
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/categories/technology/#:~:text=B\
-      log)"
+      page](https://direct-cavern.cloudvent.net/categories/technology/#:~:text=\
+      Blog)"
   community:
     label: Community
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/categories/technology/#:~:text=C\
-      ommunity)"
+      page](https://direct-cavern.cloudvent.net/categories/technology/#:~:text=\
+      Community)"
   company:
     label: Company
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/categories/technology/#:~:text=C\
-      ompany)"
+      page](https://direct-cavern.cloudvent.net/categories/technology/#:~:text=\
+      Company)"
   contact:
     label: Contact
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/categories/technology/#:~:text=C\
-      ontact)"
+      page](https://direct-cavern.cloudvent.net/categories/technology/#:~:text=\
+      Contact)"
   feature:
     label: Feature
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/categories/technology/#:~:text=F\
-      eature)"
+      page](https://direct-cavern.cloudvent.net/categories/technology/#:~:text=\
+      Feature)"
   home:
     label: Home
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/categories/technology/#:~:text=H\
-      ome)"
+      page](https://direct-cavern.cloudvent.net/categories/technology/#:~:text=\
+      Home)"
   main-pages:
     label: Main Pages
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/categories/technology/#:~:text=M\
-      ain%20Pages)"
+      page](https://direct-cavern.cloudvent.net/categories/technology/#:~:text=\
+      Main%20Pages)"
   marketing:
     label: Marketing
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/categories/technology/#:~:text=M\
-      arketing)"
+      page](https://direct-cavern.cloudvent.net/categories/technology/#:~:text=\
+      Marketing)"
   price:
     label: Price
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/categories/technology/#:~:text=P\
-      rice)"
+      page](https://direct-cavern.cloudvent.net/categories/technology/#:~:text=\
+      Price)"
   pricing:
     label: Pricing
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/categories/technology/#:~:text=P\
-      ricing)"
+      page](https://direct-cavern.cloudvent.net/categories/technology/#:~:text=\
+      Pricing)"
   privacy-and-policy:
     label: Privacy and Policy
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/categories/technology/#:~:text=P\
-      rivacy%20and%20Policy)"
+      page](https://direct-cavern.cloudvent.net/categories/technology/#:~:text=\
+      Privacy%20and%20Policy)"
   technology:
     label: Technology
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/categories/technology/#:~:text=T\
-      echnology)"
+      page](https://direct-cavern.cloudvent.net/categories/technology/#:~:text=\
+      Technology)"
 /TCP1dl7vw+zdvDuWYcPyAdWbbAHjTtIGyJwf/f/KfU: ""
 about: Acerca de
 all-articles: Todos los artículos

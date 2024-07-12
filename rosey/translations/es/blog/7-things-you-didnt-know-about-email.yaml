@@ -3,20 +3,20 @@ _inputs:
   $:
     type: object
     comment: "[See
-      blog/7-things-you-didnt-know-about-email/](https://polite-viper.cloudvent\
-      .net/blog/7-things-you-didnt-know-about-email/)"
+      blog/7-things-you-didnt-know-about-email/](https://direct-cavern.cloudven\
+      t.net/blog/7-things-you-didnt-know-about-email/)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (es)
           comment: Text to translate on
-            [blog/7-things-you-didnt-know-about-email/](https://polite-viper.cloudvent.net/blog/7-things-you-didnt-know-about-email/)
+            [blog/7-things-you-didnt-know-about-email/](https://direct-cavern.cloudvent.net/blog/7-things-you-didnt-know-about-email/)
           inputs:
             - blog
             - marketing
         - heading: Already translated (es)
           comment: Text already translated on
-            [blog/7-things-you-didnt-know-about-email/](https://polite-viper.cloudvent.net/blog/7-things-you-didnt-know-about-email/)
+            [blog/7-things-you-didnt-know-about-email/](https://direct-cavern.cloudvent.net/blog/7-things-you-didnt-know-about-email/)
           inputs:
             - 5-things-to-improve-your-email-templates
             - 7-things-you-didnt-know-about-email
@@ -43,144 +43,144 @@ _inputs:
     type: textarea
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/7-things-you-didnt-know-abo\
-      ut-email/#:~:text=5%20things%20to,your%20email%20templates)"
+      page](https://direct-cavern.cloudvent.net/blog/7-things-you-didnt-know-ab\
+      out-email/#:~:text=5%20things%20to,your%20email%20templates)"
   7-things-you-didnt-know-about-email:
     label: 7 things you didn't know about email
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/7-things-you-didnt-know-abo\
-      ut-email/#:~:text=7%20things%20you,know%20about%20email)"
+      page](https://direct-cavern.cloudvent.net/blog/7-things-you-didnt-know-ab\
+      out-email/#:~:text=7%20things%20you,know%20about%20email)"
   about:
     label: About
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/7-things-you-didnt-know-abo\
-      ut-email/#:~:text=About)"
+      page](https://direct-cavern.cloudvent.net/blog/7-things-you-didnt-know-ab\
+      out-email/#:~:text=About)"
   all-articles:
     label: All Articles
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/7-things-you-didnt-know-abo\
-      ut-email/#:~:text=All%20Articles)"
+      page](https://direct-cavern.cloudvent.net/blog/7-things-you-didnt-know-ab\
+      out-email/#:~:text=All%20Articles)"
   best-email-sending-services:
     label: Best email sending services
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/7-things-you-didnt-know-abo\
-      ut-email/#:~:text=Best%20email%20sending%20services)"
+      page](https://direct-cavern.cloudvent.net/blog/7-things-you-didnt-know-ab\
+      out-email/#:~:text=Best%20email%20sending%20services)"
   blog:
     label: Blog
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/7-things-you-didnt-know-abo\
-      ut-email/#:~:text=Blog)"
+      page](https://direct-cavern.cloudvent.net/blog/7-things-you-didnt-know-ab\
+      out-email/#:~:text=Blog)"
   community:
     label: Community
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/7-things-you-didnt-know-abo\
-      ut-email/#:~:text=Community)"
+      page](https://direct-cavern.cloudvent.net/blog/7-things-you-didnt-know-ab\
+      out-email/#:~:text=Community)"
   company:
     label: Company
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/7-things-you-didnt-know-abo\
-      ut-email/#:~:text=Company)"
+      page](https://direct-cavern.cloudvent.net/blog/7-things-you-didnt-know-ab\
+      out-email/#:~:text=Company)"
   contact:
     label: Contact
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/7-things-you-didnt-know-abo\
-      ut-email/#:~:text=Contact)"
+      page](https://direct-cavern.cloudvent.net/blog/7-things-you-didnt-know-ab\
+      out-email/#:~:text=Contact)"
   feature:
     label: Feature
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/7-things-you-didnt-know-abo\
-      ut-email/#:~:text=Feature)"
+      page](https://direct-cavern.cloudvent.net/blog/7-things-you-didnt-know-ab\
+      out-email/#:~:text=Feature)"
   home:
     label: Home
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/7-things-you-didnt-know-abo\
-      ut-email/#:~:text=Home)"
+      page](https://direct-cavern.cloudvent.net/blog/7-things-you-didnt-know-ab\
+      out-email/#:~:text=Home)"
   main-pages:
     label: Main Pages
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/7-things-you-didnt-know-abo\
-      ut-email/#:~:text=Main%20Pages)"
+      page](https://direct-cavern.cloudvent.net/blog/7-things-you-didnt-know-ab\
+      out-email/#:~:text=Main%20Pages)"
   marketing:
     label: Marketing
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/7-things-you-didnt-know-abo\
-      ut-email/#:~:text=Marketing)"
+      page](https://direct-cavern.cloudvent.net/blog/7-things-you-didnt-know-ab\
+      out-email/#:~:text=Marketing)"
   minutes:
     label: minutes
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/7-things-you-didnt-know-abo\
-      ut-email/#:~:text=minutes)"
+      page](https://direct-cavern.cloudvent.net/blog/7-things-you-didnt-know-ab\
+      out-email/#:~:text=minutes)"
   price:
     label: Price
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/7-things-you-didnt-know-abo\
-      ut-email/#:~:text=Price)"
+      page](https://direct-cavern.cloudvent.net/blog/7-things-you-didnt-know-ab\
+      out-email/#:~:text=Price)"
   pricing:
     label: Pricing
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/7-things-you-didnt-know-abo\
-      ut-email/#:~:text=Pricing)"
+      page](https://direct-cavern.cloudvent.net/blog/7-things-you-didnt-know-ab\
+      out-email/#:~:text=Pricing)"
   privacy-and-policy:
     label: Privacy and Policy
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/7-things-you-didnt-know-abo\
-      ut-email/#:~:text=Privacy%20and%20Policy)"
+      page](https://direct-cavern.cloudvent.net/blog/7-things-you-didnt-know-ab\
+      out-email/#:~:text=Privacy%20and%20Policy)"
   recent-blog:
     label: Recent Blog
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/7-things-you-didnt-know-abo\
-      ut-email/#:~:text=Recent%20Blog)"
+      page](https://direct-cavern.cloudvent.net/blog/7-things-you-didnt-know-ab\
+      out-email/#:~:text=Recent%20Blog)"
   static:/blog/7-things-you-didnt-know-about-email/:
     label: When you send an email campaign, you expec...
     hidden: false
@@ -203,8 +203,8 @@ _inputs:
       horizontalrule: true
       image: true
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/7-things-you-didnt-know-abo\
-      ut-email/#:~:text=When%20you%20send,a%20timely%20manner)"
+      page](https://direct-cavern.cloudvent.net/blog/7-things-you-didnt-know-ab\
+      out-email/#:~:text=When%20you%20send,a%20timely%20manner)"
     context:
       open: false
       title: Untranslated Text
@@ -293,16 +293,16 @@ _inputs:
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/7-things-you-didnt-know-abo\
-      ut-email/#:~:text=Technology)"
+      page](https://direct-cavern.cloudvent.net/blog/7-things-you-didnt-know-ab\
+      out-email/#:~:text=Technology)"
   words:
     label: words
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/7-things-you-didnt-know-abo\
-      ut-email/#:~:text=words)"
+      page](https://direct-cavern.cloudvent.net/blog/7-things-you-didnt-know-ab\
+      out-email/#:~:text=words)"
 5-things-to-improve-your-email-templates: 5 cosas para mejorar tus plantillas de correo electrónico
 7-things-you-didnt-know-about-email: 7 cosas que no sabías sobre el correo electrónico
 about: Acerca de

@@ -2,19 +2,19 @@ urlTranslation: blog/index.html
 _inputs:
   $:
     type: object
-    comment: "[See blog/](https://polite-viper.cloudvent.net/blog/)"
+    comment: "[See blog/](https://direct-cavern.cloudvent.net/blog/)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (es)
-          comment: Text to translate on [blog/](https://polite-viper.cloudvent.net/blog/)
+          comment: Text to translate on [blog/](https://direct-cavern.cloudvent.net/blog/)
           inputs:
             - blog
             - email
             - marketing
         - heading: Already translated (es)
           comment: Text already translated on
-            [blog/](https://polite-viper.cloudvent.net/blog/)
+            [blog/](https://direct-cavern.cloudvent.net/blog/)
           inputs:
             - 5-things-to-improve-your-email-templates
             - 7-things-you-didnt-know-about-email
@@ -42,95 +42,96 @@ _inputs:
     type: textarea
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/#:~:text=5%20things%20to,yo\
-      ur%20email%20templates)"
+      page](https://direct-cavern.cloudvent.net/blog/#:~:text=5%20things%20to,y\
+      our%20email%20templates)"
   7-things-you-didnt-know-about-email:
     label: 7 things you didn't know about email
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/#:~:text=7%20things%20you,k\
-      now%20about%20email)"
+      page](https://direct-cavern.cloudvent.net/blog/#:~:text=7%20things%20you,\
+      know%20about%20email)"
   about:
     label: About
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/blog/#:~:text=About)"
+    comment: "[See on page](https://direct-cavern.cloudvent.net/blog/#:~:text=About)"
   all-articles:
     label: All Articles
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/#:~:text=All%20Articles)"
+      page](https://direct-cavern.cloudvent.net/blog/#:~:text=All%20Articles)"
   best-email-sending-services:
     label: Best email sending services
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/#:~:text=Best%20email%20sen\
-      ding%20services)"
+      page](https://direct-cavern.cloudvent.net/blog/#:~:text=Best%20email%20se\
+      nding%20services)"
   blog:
     label: Blog
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/blog/#:~:text=Blog)"
+    comment: "[See on page](https://direct-cavern.cloudvent.net/blog/#:~:text=Blog)"
   community:
     label: Community
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/blog/#:~:text=Community)"
+    comment: "[See on
+      page](https://direct-cavern.cloudvent.net/blog/#:~:text=Community)"
   company:
     label: Company
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/blog/#:~:text=Company)"
+    comment: "[See on page](https://direct-cavern.cloudvent.net/blog/#:~:text=Company)"
   contact:
     label: Contact
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/blog/#:~:text=Contact)"
+    comment: "[See on page](https://direct-cavern.cloudvent.net/blog/#:~:text=Contact)"
   email:
     label: Email
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/blog/#:~:text=Email)"
+    comment: "[See on page](https://direct-cavern.cloudvent.net/blog/#:~:text=Email)"
   email-delivery-tips:
     label: Email delivery tips
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/#:~:text=Email%20delivery%2\
-      0tips)"
+      page](https://direct-cavern.cloudvent.net/blog/#:~:text=Email%20delivery%\
+      20tips)"
   feature:
     label: Feature
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/blog/#:~:text=Feature)"
+    comment: "[See on page](https://direct-cavern.cloudvent.net/blog/#:~:text=Feature)"
   home:
     label: Home
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/blog/#:~:text=Home)"
+    comment: "[See on page](https://direct-cavern.cloudvent.net/blog/#:~:text=Home)"
   how-to-host-better-email-marketing-campaigns:
     label: How to host better email marketing campaig...
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/#:~:text=How%20to%20host,em\
-      ail%20marketing%20campaigns)"
+      page](https://direct-cavern.cloudvent.net/blog/#:~:text=How%20to%20host,e\
+      mail%20marketing%20campaigns)"
     context:
       open: false
       title: Untranslated Text
@@ -142,56 +143,57 @@ _inputs:
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/#:~:text=Main%20Pages)"
+      page](https://direct-cavern.cloudvent.net/blog/#:~:text=Main%20Pages)"
   marketing:
     label: Marketing
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/blog/#:~:text=Marketing)"
+    comment: "[See on
+      page](https://direct-cavern.cloudvent.net/blog/#:~:text=Marketing)"
   price:
     label: Price
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/blog/#:~:text=Price)"
+    comment: "[See on page](https://direct-cavern.cloudvent.net/blog/#:~:text=Price)"
   pricing:
     label: Pricing
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/blog/#:~:text=Pricing)"
+    comment: "[See on page](https://direct-cavern.cloudvent.net/blog/#:~:text=Pricing)"
   privacy-and-policy:
     label: Privacy and Policy
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/#:~:text=Privacy%20and%20Po\
-      licy)"
+      page](https://direct-cavern.cloudvent.net/blog/#:~:text=Privacy%20and%20P\
+      olicy)"
   resources-to-grow-your-email-campaigns:
     label: Resources to grow your email campaigns
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/#:~:text=Resources%20to%20g\
-      row%20your%20email%20campaigns)"
+      page](https://direct-cavern.cloudvent.net/blog/#:~:text=Resources%20to%20\
+      grow%20your%20email%20campaigns)"
   technology:
     label: Technology
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/#:~:text=Technology)"
+      page](https://direct-cavern.cloudvent.net/blog/#:~:text=Technology)"
   we-believe-that-a-good-email-marketing-strategy-is-the-key-to-growth-so-were-helping-you-grow-your-business-with-tools-and-resources-that-make-email-marketing-easy:
     label: We believe that a good email marketing str...
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/#:~:text=We%20believe%20tha\
-      t,email%20marketing%20easy)"
+      page](https://direct-cavern.cloudvent.net/blog/#:~:text=We%20believe%20th\
+      at,email%20marketing%20easy)"
     context:
       open: false
       title: Untranslated Text
@@ -205,8 +207,8 @@ _inputs:
     type: textarea
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/#:~:text=What%20are%20the%2\
-      0best%20email%20clients)"
+      page](https://direct-cavern.cloudvent.net/blog/#:~:text=What%20are%20the%\
+      20best%20email%20clients)"
 5-things-to-improve-your-email-templates: 5 cosas para mejorar tus plantillas de correo electrónico
 7-things-you-didnt-know-about-email: 7 cosas que no sabías sobre el correo electrónico
 about: Acerca de

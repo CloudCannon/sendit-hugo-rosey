@@ -2,15 +2,15 @@ urlTranslation: blog/page/1/index.html
 _inputs:
   $:
     type: object
-    comment: "[See blog/page/1/](https://polite-viper.cloudvent.net/blog/page/1/)"
+    comment: "[See blog/page/1/](https://direct-cavern.cloudvent.net/blog/page/1/)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (jp)
           comment: Text to translate on
-            [blog/page/1/](https://polite-viper.cloudvent.net/blog/page/1/)
+            [blog/page/1/](https://direct-cavern.cloudvent.net/blog/page/1/)
           inputs: []
         - heading: Already translated (jp)
           comment: Text already translated on
-            [blog/page/1/](https://polite-viper.cloudvent.net/blog/page/1/)
+            [blog/page/1/](https://direct-cavern.cloudvent.net/blog/page/1/)
           inputs: []

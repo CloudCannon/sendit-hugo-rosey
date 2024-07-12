@@ -2,18 +2,18 @@ urlTranslation: tags/index.html
 _inputs:
   $:
     type: object
-    comment: "[See tags/](https://polite-viper.cloudvent.net/tags/)"
+    comment: "[See tags/](https://direct-cavern.cloudvent.net/tags/)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (jp)
-          comment: Text to translate on [tags/](https://polite-viper.cloudvent.net/tags/)
+          comment: Text to translate on [tags/](https://direct-cavern.cloudvent.net/tags/)
           inputs:
             - /TCP1dl7vw+zdvDuWYcPyAdWbbAHjTtIGyJwf/f/KfU
             - tags
         - heading: Already translated (jp)
           comment: Text already translated on
-            [tags/](https://polite-viper.cloudvent.net/tags/)
+            [tags/](https://direct-cavern.cloudvent.net/tags/)
           inputs:
             - about
             - all-articles
@@ -34,102 +34,104 @@ _inputs:
     hidden: true
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/tags/#:~:text=)"
+    comment: "[See on page](https://direct-cavern.cloudvent.net/tags/#:~:text=)"
   about:
     label: About
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/tags/#:~:text=About)"
+    comment: "[See on page](https://direct-cavern.cloudvent.net/tags/#:~:text=About)"
   all-articles:
     label: All Articles
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/tags/#:~:text=All%20Articles)"
+      page](https://direct-cavern.cloudvent.net/tags/#:~:text=All%20Articles)"
   blog:
     label: Blog
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/tags/#:~:text=Blog)"
+    comment: "[See on page](https://direct-cavern.cloudvent.net/tags/#:~:text=Blog)"
   community:
     label: Community
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/tags/#:~:text=Community)"
+    comment: "[See on
+      page](https://direct-cavern.cloudvent.net/tags/#:~:text=Community)"
   company:
     label: Company
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/tags/#:~:text=Company)"
+    comment: "[See on page](https://direct-cavern.cloudvent.net/tags/#:~:text=Company)"
   contact:
     label: Contact
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/tags/#:~:text=Contact)"
+    comment: "[See on page](https://direct-cavern.cloudvent.net/tags/#:~:text=Contact)"
   feature:
     label: Feature
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/tags/#:~:text=Feature)"
+    comment: "[See on page](https://direct-cavern.cloudvent.net/tags/#:~:text=Feature)"
   home:
     label: Home
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/tags/#:~:text=Home)"
+    comment: "[See on page](https://direct-cavern.cloudvent.net/tags/#:~:text=Home)"
   main-pages:
     label: Main Pages
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/tags/#:~:text=Main%20Pages)"
+      page](https://direct-cavern.cloudvent.net/tags/#:~:text=Main%20Pages)"
   marketing:
     label: Marketing
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/tags/#:~:text=Marketing)"
+    comment: "[See on
+      page](https://direct-cavern.cloudvent.net/tags/#:~:text=Marketing)"
   price:
     label: Price
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/tags/#:~:text=Price)"
+    comment: "[See on page](https://direct-cavern.cloudvent.net/tags/#:~:text=Price)"
   pricing:
     label: Pricing
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/tags/#:~:text=Pricing)"
+    comment: "[See on page](https://direct-cavern.cloudvent.net/tags/#:~:text=Pricing)"
   privacy-and-policy:
     label: Privacy and Policy
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/tags/#:~:text=Privacy%20and%20Po\
-      licy)"
+      page](https://direct-cavern.cloudvent.net/tags/#:~:text=Privacy%20and%20P\
+      olicy)"
   tags:
     label: Tags
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/tags/#:~:text=Tags)"
+    comment: "[See on page](https://direct-cavern.cloudvent.net/tags/#:~:text=Tags)"
   technology:
     label: Technology
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/tags/#:~:text=Technology)"
+      page](https://direct-cavern.cloudvent.net/tags/#:~:text=Technology)"
 /TCP1dl7vw+zdvDuWYcPyAdWbbAHjTtIGyJwf/f/KfU: ""
 about: について
 all-articles: すべての記事

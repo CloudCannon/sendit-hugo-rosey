@@ -2,17 +2,17 @@ urlTranslation: privacy/index.html
 _inputs:
   $:
     type: object
-    comment: "[See privacy/](https://polite-viper.cloudvent.net/privacy/)"
+    comment: "[See privacy/](https://direct-cavern.cloudvent.net/privacy/)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (jp)
           comment: Text to translate on
-            [privacy/](https://polite-viper.cloudvent.net/privacy/)
+            [privacy/](https://direct-cavern.cloudvent.net/privacy/)
           inputs: []
         - heading: Already translated (jp)
           comment: Text already translated on
-            [privacy/](https://polite-viper.cloudvent.net/privacy/)
+            [privacy/](https://direct-cavern.cloudvent.net/privacy/)
           inputs:
             - a-slider-is-great-way-to-display-a-slideshow
             - about
@@ -40,8 +40,8 @@ _inputs:
     type: textarea
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/privacy/#:~:text=A%20slider%20is\
-      ,display%20a%20slideshow)"
+      page](https://direct-cavern.cloudvent.net/privacy/#:~:text=A%20slider%20i\
+      s,display%20a%20slideshow)"
     context:
       open: false
       title: Untranslated Text
@@ -52,128 +52,129 @@ _inputs:
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/privacy/#:~:text=About)"
+    comment: "[See on page](https://direct-cavern.cloudvent.net/privacy/#:~:text=About)"
   account-information--payments:
     label: Account Information  Payments
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/privacy/#:~:text=Account%20Infor\
-      mation%20%20Payments)"
+      page](https://direct-cavern.cloudvent.net/privacy/#:~:text=Account%20Info\
+      rmation%20%20Payments)"
   all-articles:
     label: All Articles
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/privacy/#:~:text=All%20Articles)"
+      page](https://direct-cavern.cloudvent.net/privacy/#:~:text=All%20Articles\
+      )"
   blog:
     label: Blog
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/privacy/#:~:text=Blog)"
+    comment: "[See on page](https://direct-cavern.cloudvent.net/privacy/#:~:text=Blog)"
   community:
     label: Community
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/privacy/#:~:text=Community)"
+      page](https://direct-cavern.cloudvent.net/privacy/#:~:text=Community)"
   company:
     label: Company
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/privacy/#:~:text=Company)"
+      page](https://direct-cavern.cloudvent.net/privacy/#:~:text=Company)"
   contact:
     label: Contact
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/privacy/#:~:text=Contact)"
+      page](https://direct-cavern.cloudvent.net/privacy/#:~:text=Contact)"
   feature:
     label: Feature
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/privacy/#:~:text=Feature)"
+      page](https://direct-cavern.cloudvent.net/privacy/#:~:text=Feature)"
   home:
     label: Home
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/privacy/#:~:text=Home)"
+    comment: "[See on page](https://direct-cavern.cloudvent.net/privacy/#:~:text=Home)"
   main-pages:
     label: Main Pages
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/privacy/#:~:text=Main%20Pages)"
+      page](https://direct-cavern.cloudvent.net/privacy/#:~:text=Main%20Pages)"
   marketing:
     label: Marketing
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/privacy/#:~:text=Marketing)"
+      page](https://direct-cavern.cloudvent.net/privacy/#:~:text=Marketing)"
   price:
     label: Price
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/privacy/#:~:text=Price)"
+    comment: "[See on page](https://direct-cavern.cloudvent.net/privacy/#:~:text=Price)"
   pricing:
     label: Pricing
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/privacy/#:~:text=Pricing)"
+      page](https://direct-cavern.cloudvent.net/privacy/#:~:text=Pricing)"
   privacy-and-policy:
     label: Privacy and Policy
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/privacy/#:~:text=Privacy%20and%2\
-      0Policy)"
+      page](https://direct-cavern.cloudvent.net/privacy/#:~:text=Privacy%20and%\
+      20Policy)"
   sendit-terms-and-conditions:
     label: SendIt Terms And Conditions
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/privacy/#:~:text=SendIt%20Terms%\
-      20And%20Conditions)"
+      page](https://direct-cavern.cloudvent.net/privacy/#:~:text=SendIt%20Terms\
+      %20And%20Conditions)"
   technology:
     label: Technology
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/privacy/#:~:text=Technology)"
+      page](https://direct-cavern.cloudvent.net/privacy/#:~:text=Technology)"
   terms--condition:
     label: Terms  Condition
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/privacy/#:~:text=Terms%20%20Cond\
-      ition)"
+      page](https://direct-cavern.cloudvent.net/privacy/#:~:text=Terms%20%20Con\
+      dition)"
   the-main-benefit-of-using-sliders-is-presenting-all-the-contents-in-a-visually-pleasing-manner:
     label: The main benefit of using sliders is prese...
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/privacy/#:~:text=The%20main%20be\
-      nefit,visually%20pleasing%20manner)"
+      page](https://direct-cavern.cloudvent.net/privacy/#:~:text=The%20main%20b\
+      enefit,visually%20pleasing%20manner)"
     context:
       open: false
       title: Untranslated Text
@@ -186,8 +187,8 @@ _inputs:
     type: textarea
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/privacy/#:~:text=The%20WordPress\
-      %20sites,on%20the%20screen)"
+      page](https://direct-cavern.cloudvent.net/privacy/#:~:text=The%20WordPres\
+      s%20sites,on%20the%20screen)"
     context:
       open: false
       title: Untranslated Text

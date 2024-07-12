@@ -3,19 +3,18 @@ _inputs:
   $:
     type: object
     comment: "[See
-      blog/email-delivery-tips/](https://polite-viper.cloudvent.net/blog/email-\
-      delivery-tips/)"
+      blog/email-delivery-tips/](https://direct-cavern.cloudvent.net/blog/email\
+      -delivery-tips/)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (jp)
           comment: Text to translate on
-            [blog/email-delivery-tips/](https://polite-viper.cloudvent.net/blog/email-delivery-tips/)
-          inputs:
-            - email-delivery-tips
+            [blog/email-delivery-tips/](https://direct-cavern.cloudvent.net/blog/email-delivery-tips/)
+          inputs: []
         - heading: Already translated (jp)
           comment: Text already translated on
-            [blog/email-delivery-tips/](https://polite-viper.cloudvent.net/blog/email-delivery-tips/)
+            [blog/email-delivery-tips/](https://direct-cavern.cloudvent.net/blog/email-delivery-tips/)
           inputs:
             - 5-things-to-improve-your-email-templates
             - 7-things-you-didnt-know-about-email
@@ -26,6 +25,7 @@ _inputs:
             - community
             - company
             - contact
+            - email-delivery-tips
             - feature
             - home
             - main-pages
@@ -44,152 +44,152 @@ _inputs:
     type: textarea
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:tex\
-      t=5%20things%20to,your%20email%20templates)"
+      page](https://direct-cavern.cloudvent.net/blog/email-delivery-tips/#:~:te\
+      xt=5%20things%20to,your%20email%20templates)"
   7-things-you-didnt-know-about-email:
     label: 7 things you didn't know about email
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:tex\
-      t=7%20things%20you,know%20about%20email)"
+      page](https://direct-cavern.cloudvent.net/blog/email-delivery-tips/#:~:te\
+      xt=7%20things%20you,know%20about%20email)"
   about:
     label: About
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:tex\
-      t=About)"
+      page](https://direct-cavern.cloudvent.net/blog/email-delivery-tips/#:~:te\
+      xt=About)"
   all-articles:
     label: All Articles
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:tex\
-      t=All%20Articles)"
+      page](https://direct-cavern.cloudvent.net/blog/email-delivery-tips/#:~:te\
+      xt=All%20Articles)"
   best-email-sending-services:
     label: Best email sending services
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:tex\
-      t=Best%20email%20sending%20services)"
+      page](https://direct-cavern.cloudvent.net/blog/email-delivery-tips/#:~:te\
+      xt=Best%20email%20sending%20services)"
   blog:
     label: Blog
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:tex\
-      t=Blog)"
+      page](https://direct-cavern.cloudvent.net/blog/email-delivery-tips/#:~:te\
+      xt=Blog)"
   community:
     label: Community
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:tex\
-      t=Community)"
+      page](https://direct-cavern.cloudvent.net/blog/email-delivery-tips/#:~:te\
+      xt=Community)"
   company:
     label: Company
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:tex\
-      t=Company)"
+      page](https://direct-cavern.cloudvent.net/blog/email-delivery-tips/#:~:te\
+      xt=Company)"
   contact:
     label: Contact
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:tex\
-      t=Contact)"
+      page](https://direct-cavern.cloudvent.net/blog/email-delivery-tips/#:~:te\
+      xt=Contact)"
   email-delivery-tips:
     label: Email delivery tips
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:tex\
-      t=Email%20delivery%20tips)"
+      page](https://direct-cavern.cloudvent.net/blog/email-delivery-tips/#:~:te\
+      xt=Email%20delivery%20tips)"
   feature:
     label: Feature
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:tex\
-      t=Feature)"
+      page](https://direct-cavern.cloudvent.net/blog/email-delivery-tips/#:~:te\
+      xt=Feature)"
   home:
     label: Home
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:tex\
-      t=Home)"
+      page](https://direct-cavern.cloudvent.net/blog/email-delivery-tips/#:~:te\
+      xt=Home)"
   main-pages:
     label: Main Pages
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:tex\
-      t=Main%20Pages)"
+      page](https://direct-cavern.cloudvent.net/blog/email-delivery-tips/#:~:te\
+      xt=Main%20Pages)"
   marketing:
     label: Marketing
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:tex\
-      t=Marketing)"
+      page](https://direct-cavern.cloudvent.net/blog/email-delivery-tips/#:~:te\
+      xt=Marketing)"
   minutes:
     label: minutes
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:tex\
-      t=minutes)"
+      page](https://direct-cavern.cloudvent.net/blog/email-delivery-tips/#:~:te\
+      xt=minutes)"
   price:
     label: Price
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:tex\
-      t=Price)"
+      page](https://direct-cavern.cloudvent.net/blog/email-delivery-tips/#:~:te\
+      xt=Price)"
   pricing:
     label: Pricing
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:tex\
-      t=Pricing)"
+      page](https://direct-cavern.cloudvent.net/blog/email-delivery-tips/#:~:te\
+      xt=Pricing)"
   privacy-and-policy:
     label: Privacy and Policy
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:tex\
-      t=Privacy%20and%20Policy)"
+      page](https://direct-cavern.cloudvent.net/blog/email-delivery-tips/#:~:te\
+      xt=Privacy%20and%20Policy)"
   recent-blog:
     label: Recent Blog
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:tex\
-      t=Recent%20Blog)"
+      page](https://direct-cavern.cloudvent.net/blog/email-delivery-tips/#:~:te\
+      xt=Recent%20Blog)"
   static:/blog/email-delivery-tips/:
     label: When you send an email campaign, you expec...
     hidden: false
@@ -212,8 +212,8 @@ _inputs:
       horizontalrule: true
       image: true
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:tex\
-      t=When%20you%20send,a%20timely%20manner)"
+      page](https://direct-cavern.cloudvent.net/blog/email-delivery-tips/#:~:te\
+      xt=When%20you%20send,a%20timely%20manner)"
     context:
       open: false
       title: Untranslated Text
@@ -302,16 +302,16 @@ _inputs:
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:tex\
-      t=Technology)"
+      page](https://direct-cavern.cloudvent.net/blog/email-delivery-tips/#:~:te\
+      xt=Technology)"
   words:
     label: words
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/email-delivery-tips/#:~:tex\
-      t=words)"
+      page](https://direct-cavern.cloudvent.net/blog/email-delivery-tips/#:~:te\
+      xt=words)"
 5-things-to-improve-your-email-templates: メールテンプレートを改善するための 5 つのこと
 7-things-you-didnt-know-about-email: 電子メールについてあなたが知らなかった 7 つのこと
 about: について

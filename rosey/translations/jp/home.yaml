@@ -2,15 +2,15 @@ urlTranslation: index.html
 _inputs:
   $:
     type: object
-    comment: "[See ](https://polite-viper.cloudvent.net/)"
+    comment: "[See ](https://direct-cavern.cloudvent.net/)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (jp)
-          comment: Text to translate on [](https://polite-viper.cloudvent.net/)
+          comment: Text to translate on [](https://direct-cavern.cloudvent.net/)
           inputs: []
         - heading: Already translated (jp)
-          comment: Text already translated on [](https://polite-viper.cloudvent.net/)
+          comment: Text already translated on [](https://direct-cavern.cloudvent.net/)
           inputs:
             - 100-free-uploads
             - about
@@ -59,140 +59,141 @@ _inputs:
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/#:~:text=100%20free%20uploads)"
+      page](https://direct-cavern.cloudvent.net/#:~:text=100%20free%20uploads)"
   about:
     label: About
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/#:~:text=About)"
+    comment: "[See on page](https://direct-cavern.cloudvent.net/#:~:text=About)"
   active-users-and-growing:
     label: Active users and growing
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/#:~:text=Active%20users%20and%20\
-      growing)"
+      page](https://direct-cavern.cloudvent.net/#:~:text=Active%20users%20and%2\
+      0growing)"
   all-articles:
     label: All Articles
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/#:~:text=All%20Articles)"
+    comment: "[See on
+      page](https://direct-cavern.cloudvent.net/#:~:text=All%20Articles)"
   amazing-team-members:
     label: Amazing team members
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/#:~:text=Amazing%20team%20member\
-      s)"
+      page](https://direct-cavern.cloudvent.net/#:~:text=Amazing%20team%20membe\
+      rs)"
   beautiful-email-campaigns:
     label: Beautiful email campaigns
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/#:~:text=Beautiful%20email%20cam\
-      paigns)"
+      page](https://direct-cavern.cloudvent.net/#:~:text=Beautiful%20email%20ca\
+      mpaigns)"
   blog:
     label: Blog
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/#:~:text=Blog)"
+    comment: "[See on page](https://direct-cavern.cloudvent.net/#:~:text=Blog)"
   build-relationships-that:
     label: Build relationships that  last
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/#:~:text=Build%20relationships%2\
-      0that%20%20last)"
+      page](https://direct-cavern.cloudvent.net/#:~:text=Build%20relationships%\
+      20that%20%20last)"
   business:
     label: Business
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/#:~:text=Business)"
+    comment: "[See on page](https://direct-cavern.cloudvent.net/#:~:text=Business)"
   cmo-at-clear-appeal:
     label: CMO at Clear Appeal
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/#:~:text=CMO%20at%20Clear%20Appe\
-      al)"
+      page](https://direct-cavern.cloudvent.net/#:~:text=CMO%20at%20Clear%20App\
+      eal)"
   community:
     label: Community
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/#:~:text=Community)"
+    comment: "[See on page](https://direct-cavern.cloudvent.net/#:~:text=Community)"
   company:
     label: Company
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/#:~:text=Company)"
+    comment: "[See on page](https://direct-cavern.cloudvent.net/#:~:text=Company)"
   contact:
     label: Contact
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/#:~:text=Contact)"
+    comment: "[See on page](https://direct-cavern.cloudvent.net/#:~:text=Contact)"
   digital-marketer-at-time-cop:
     label: Digital Marketer at Time Cop
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/#:~:text=Digital%20Marketer%20at\
-      %20Time%20Cop)"
+      page](https://direct-cavern.cloudvent.net/#:~:text=Digital%20Marketer%20a\
+      t%20Time%20Cop)"
   email-campaign-in-one-minute:
     label: Email Campaign in one minute
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/#:~:text=Email%20Campaign%20in%2\
-      0one%20minute)"
+      page](https://direct-cavern.cloudvent.net/#:~:text=Email%20Campaign%20in%\
+      20one%20minute)"
   established-in:
     label: Established in
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/#:~:text=Established%20in)"
+      page](https://direct-cavern.cloudvent.net/#:~:text=Established%20in)"
   feature:
     label: Feature
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/#:~:text=Feature)"
+    comment: "[See on page](https://direct-cavern.cloudvent.net/#:~:text=Feature)"
   head-of-marketing-at-pinnacle-mines:
     label: Head of Marketing at Pinnacle Mines
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/#:~:text=Head%20of%20Marketing%2\
-      0at%20Pinnacle%20Mines)"
+      page](https://direct-cavern.cloudvent.net/#:~:text=Head%20of%20Marketing%\
+      20at%20Pinnacle%20Mines)"
   home:
     label: Home
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/#:~:text=Home)"
+    comment: "[See on page](https://direct-cavern.cloudvent.net/#:~:text=Home)"
   i-cant-imagine-life-without-sendit-now-i-have-no-idea-how-we-were-surviving-before:
     label: I can't imagine life without Sendit now, I...
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/#:~:text=I%20can't%20imagine,wer\
-      e%20surviving%20before)"
+      page](https://direct-cavern.cloudvent.net/#:~:text=I%20can't%20imagine,we\
+      re%20surviving%20before)"
     context:
       open: false
       title: Untranslated Text
@@ -204,13 +205,13 @@ _inputs:
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/#:~:text=last)"
+    comment: "[See on page](https://direct-cavern.cloudvent.net/#:~:text=last)"
   main-pages:
     label: Main Pages
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/#:~:text=Main%20Pages)"
+    comment: "[See on page](https://direct-cavern.cloudvent.net/#:~:text=Main%20Pages)"
   markdown:customers-from-around-the-world-are-building-game-changing-email-marketing-campaigns:
     label: Customers from around the world are buildi...
     hidden: false
@@ -233,8 +234,8 @@ _inputs:
       horizontalrule: true
       image: true
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/#:~:text=Customers%20from%20arou\
-      nd,email%20marketing%20campaigns)"
+      page](https://direct-cavern.cloudvent.net/#:~:text=Customers%20from%20aro\
+      und,email%20marketing%20campaigns)"
     context:
       open: false
       title: Untranslated Text
@@ -263,8 +264,8 @@ _inputs:
       horizontalrule: true
       image: true
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/#:~:text=Our%20platform%20offers\
-      ,and%20customer%20segmentation)"
+      page](https://direct-cavern.cloudvent.net/#:~:text=Our%20platform%20offer\
+      s,and%20customer%20segmentation)"
     context:
       open: false
       title: Untranslated Text
@@ -294,8 +295,8 @@ _inputs:
       horizontalrule: true
       image: true
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/#:~:text=Sales%20analytics%20and\
-      ,it%20came%20from)"
+      page](https://direct-cavern.cloudvent.net/#:~:text=Sales%20analytics%20an\
+      d,it%20came%20from)"
     context:
       open: false
       title: Untranslated Text
@@ -324,8 +325,8 @@ _inputs:
       horizontalrule: true
       image: true
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/#:~:text=Send%20an%20email,the%2\
-      0human%20touch)"
+      page](https://direct-cavern.cloudvent.net/#:~:text=Send%20an%20email,the%\
+      20human%20touch)"
     context:
       open: false
       title: Untranslated Text
@@ -354,8 +355,8 @@ _inputs:
       horizontalrule: true
       image: true
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/#:~:text=SendIt%20is%20used,emai\
-      ls%20in%20minutes)"
+      page](https://direct-cavern.cloudvent.net/#:~:text=SendIt%20is%20used,ema\
+      ils%20in%20minutes)"
     context:
       open: false
       title: Untranslated Text
@@ -385,8 +386,8 @@ _inputs:
       horizontalrule: true
       image: true
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/#:~:text=We%20have%20an,your%20n\
-      ext%20project)"
+      page](https://direct-cavern.cloudvent.net/#:~:text=We%20have%20an,your%20\
+      next%20project)"
     context:
       open: false
       title: Untranslated Text
@@ -415,8 +416,8 @@ _inputs:
       horizontalrule: true
       image: true
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/#:~:text=With%20Sendit%20you,the\
-      m%20into%20customers)"
+      page](https://direct-cavern.cloudvent.net/#:~:text=With%20Sendit%20you,th\
+      em%20into%20customers)"
     context:
       open: false
       title: Untranslated Text
@@ -428,57 +429,58 @@ _inputs:
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/#:~:text=Marketing)"
+    comment: "[See on page](https://direct-cavern.cloudvent.net/#:~:text=Marketing)"
   price:
     label: Price
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/#:~:text=Price)"
+    comment: "[See on page](https://direct-cavern.cloudvent.net/#:~:text=Price)"
   pricing:
     label: Pricing
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/#:~:text=Pricing)"
+    comment: "[See on page](https://direct-cavern.cloudvent.net/#:~:text=Pricing)"
   privacy-and-policy:
     label: Privacy and Policy
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/#:~:text=Privacy%20and%20Policy)"
+      page](https://direct-cavern.cloudvent.net/#:~:text=Privacy%20and%20Policy\
+      )"
   scale-your:
     label: Scale your Business
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/#:~:text=Scale%20your%20Business\
-      )"
+      page](https://direct-cavern.cloudvent.net/#:~:text=Scale%20your%20Busines\
+      s)"
   see-every-lead-in-one-place:
     label: See every Lead in one Place
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/#:~:text=See%20every%20Lead%20in\
-      %20one%20Place)"
+      page](https://direct-cavern.cloudvent.net/#:~:text=See%20every%20Lead%20i\
+      n%20one%20Place)"
   sendit:
     label: Sendit Features
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/#:~:text=Sendit%20Features)"
+      page](https://direct-cavern.cloudvent.net/#:~:text=Sendit%20Features)"
   sendit-has-taken-clear-appeal-to-the-next-level-with-its-beautiful-targetted-email-campaigns:
     label: Sendit has taken Clear Appeal to the next ...
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/#:~:text=Sendit%20has%20taken,ta\
-      rgetted%20email%20campaigns)"
+      page](https://direct-cavern.cloudvent.net/#:~:text=Sendit%20has%20taken,t\
+      argetted%20email%20campaigns)"
     context:
       open: false
       title: Untranslated Text
@@ -490,30 +492,30 @@ _inputs:
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://polite-viper.cloudvent.net/#:~:text=Technology)"
+    comment: "[See on page](https://direct-cavern.cloudvent.net/#:~:text=Technology)"
   try-this-free:
     label: Try This Free
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/#:~:text=Try%20This%20Free)"
+      page](https://direct-cavern.cloudvent.net/#:~:text=Try%20This%20Free)"
   venture-capital-raised:
     label: Venture capital raised
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/#:~:text=Venture%20capital%20rai\
-      sed)"
+      page](https://direct-cavern.cloudvent.net/#:~:text=Venture%20capital%20ra\
+      ised)"
   wow-what-a-difference-sendit-has-made-my-customers-are-more-engaged-than-ever:
     label: Wow, what a difference Sendit has made. My...
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/#:~:text=Wow%20what%20a,engaged%\
-      20than%20ever)"
+      page](https://direct-cavern.cloudvent.net/#:~:text=Wow%20what%20a,engaged\
+      %20than%20ever)"
     context:
       open: false
       title: Untranslated Text

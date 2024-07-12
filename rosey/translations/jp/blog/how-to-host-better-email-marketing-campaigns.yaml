@@ -3,19 +3,19 @@ _inputs:
   $:
     type: object
     comment: "[See
-      blog/how-to-host-better-email-marketing-campaigns/](https://polite-viper.\
-      cloudvent.net/blog/how-to-host-better-email-marketing-campaigns/)"
+      blog/how-to-host-better-email-marketing-campaigns/](https://direct-cavern\
+      .cloudvent.net/blog/how-to-host-better-email-marketing-campaigns/)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (jp)
           comment: Text to translate on
-            [blog/how-to-host-better-email-marketing-campaigns/](https://polite-viper.cloudvent.net/blog/how-to-host-better-email-marketing-campaigns/)
+            [blog/how-to-host-better-email-marketing-campaigns/](https://direct-cavern.cloudvent.net/blog/how-to-host-better-email-marketing-campaigns/)
           inputs:
             - static:/blog/how-to-host-better-email-marketing-campaigns/
         - heading: Already translated (jp)
           comment: Text already translated on
-            [blog/how-to-host-better-email-marketing-campaigns/](https://polite-viper.cloudvent.net/blog/how-to-host-better-email-marketing-campaigns/)
+            [blog/how-to-host-better-email-marketing-campaigns/](https://direct-cavern.cloudvent.net/blog/how-to-host-better-email-marketing-campaigns/)
           inputs:
             - 5-things-to-improve-your-email-templates
             - 7-things-you-didnt-know-about-email
@@ -44,96 +44,97 @@ _inputs:
     type: textarea
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/how-to-host-better-email-ma\
-      rketing-campaigns/#:~:text=5%20things%20to,your%20email%20templates)"
+      page](https://direct-cavern.cloudvent.net/blog/how-to-host-better-email-m\
+      arketing-campaigns/#:~:text=5%20things%20to,your%20email%20templates)"
   7-things-you-didnt-know-about-email:
     label: 7 things you didn't know about email
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/how-to-host-better-email-ma\
-      rketing-campaigns/#:~:text=7%20things%20you,know%20about%20email)"
+      page](https://direct-cavern.cloudvent.net/blog/how-to-host-better-email-m\
+      arketing-campaigns/#:~:text=7%20things%20you,know%20about%20email)"
   about:
     label: About
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/how-to-host-better-email-ma\
-      rketing-campaigns/#:~:text=About)"
+      page](https://direct-cavern.cloudvent.net/blog/how-to-host-better-email-m\
+      arketing-campaigns/#:~:text=About)"
   all-articles:
     label: All Articles
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/how-to-host-better-email-ma\
-      rketing-campaigns/#:~:text=All%20Articles)"
+      page](https://direct-cavern.cloudvent.net/blog/how-to-host-better-email-m\
+      arketing-campaigns/#:~:text=All%20Articles)"
   best-email-sending-services:
     label: Best email sending services
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/how-to-host-better-email-ma\
-      rketing-campaigns/#:~:text=Best%20email%20sending%20services)"
+      page](https://direct-cavern.cloudvent.net/blog/how-to-host-better-email-m\
+      arketing-campaigns/#:~:text=Best%20email%20sending%20services)"
   blog:
     label: Blog
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/how-to-host-better-email-ma\
-      rketing-campaigns/#:~:text=Blog)"
+      page](https://direct-cavern.cloudvent.net/blog/how-to-host-better-email-m\
+      arketing-campaigns/#:~:text=Blog)"
   community:
     label: Community
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/how-to-host-better-email-ma\
-      rketing-campaigns/#:~:text=Community)"
+      page](https://direct-cavern.cloudvent.net/blog/how-to-host-better-email-m\
+      arketing-campaigns/#:~:text=Community)"
   company:
     label: Company
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/how-to-host-better-email-ma\
-      rketing-campaigns/#:~:text=Company)"
+      page](https://direct-cavern.cloudvent.net/blog/how-to-host-better-email-m\
+      arketing-campaigns/#:~:text=Company)"
   contact:
     label: Contact
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/how-to-host-better-email-ma\
-      rketing-campaigns/#:~:text=Contact)"
+      page](https://direct-cavern.cloudvent.net/blog/how-to-host-better-email-m\
+      arketing-campaigns/#:~:text=Contact)"
   feature:
     label: Feature
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/how-to-host-better-email-ma\
-      rketing-campaigns/#:~:text=Feature)"
+      page](https://direct-cavern.cloudvent.net/blog/how-to-host-better-email-m\
+      arketing-campaigns/#:~:text=Feature)"
   home:
     label: Home
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/how-to-host-better-email-ma\
-      rketing-campaigns/#:~:text=Home)"
+      page](https://direct-cavern.cloudvent.net/blog/how-to-host-better-email-m\
+      arketing-campaigns/#:~:text=Home)"
   how-to-host-better-email-marketing-campaigns:
     label: How to host better email marketing campaig...
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/how-to-host-better-email-ma\
-      rketing-campaigns/#:~:text=How%20to%20host,email%20marketing%20campaigns)"
+      page](https://direct-cavern.cloudvent.net/blog/how-to-host-better-email-m\
+      arketing-campaigns/#:~:text=How%20to%20host,email%20marketing%20campaigns\
+      )"
     context:
       open: false
       title: Untranslated Text
@@ -145,56 +146,56 @@ _inputs:
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/how-to-host-better-email-ma\
-      rketing-campaigns/#:~:text=Main%20Pages)"
+      page](https://direct-cavern.cloudvent.net/blog/how-to-host-better-email-m\
+      arketing-campaigns/#:~:text=Main%20Pages)"
   marketing:
     label: Marketing
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/how-to-host-better-email-ma\
-      rketing-campaigns/#:~:text=Marketing)"
+      page](https://direct-cavern.cloudvent.net/blog/how-to-host-better-email-m\
+      arketing-campaigns/#:~:text=Marketing)"
   minutes:
     label: minutes
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/how-to-host-better-email-ma\
-      rketing-campaigns/#:~:text=minutes)"
+      page](https://direct-cavern.cloudvent.net/blog/how-to-host-better-email-m\
+      arketing-campaigns/#:~:text=minutes)"
   price:
     label: Price
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/how-to-host-better-email-ma\
-      rketing-campaigns/#:~:text=Price)"
+      page](https://direct-cavern.cloudvent.net/blog/how-to-host-better-email-m\
+      arketing-campaigns/#:~:text=Price)"
   pricing:
     label: Pricing
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/how-to-host-better-email-ma\
-      rketing-campaigns/#:~:text=Pricing)"
+      page](https://direct-cavern.cloudvent.net/blog/how-to-host-better-email-m\
+      arketing-campaigns/#:~:text=Pricing)"
   privacy-and-policy:
     label: Privacy and Policy
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/how-to-host-better-email-ma\
-      rketing-campaigns/#:~:text=Privacy%20and%20Policy)"
+      page](https://direct-cavern.cloudvent.net/blog/how-to-host-better-email-m\
+      arketing-campaigns/#:~:text=Privacy%20and%20Policy)"
   recent-blog:
     label: Recent Blog
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/how-to-host-better-email-ma\
-      rketing-campaigns/#:~:text=Recent%20Blog)"
+      page](https://direct-cavern.cloudvent.net/blog/how-to-host-better-email-m\
+      arketing-campaigns/#:~:text=Recent%20Blog)"
   static:/blog/how-to-host-better-email-marketing-campaigns/:
     label: When you send an email campaign, you expec...
     hidden: false
@@ -217,8 +218,8 @@ _inputs:
       horizontalrule: true
       image: true
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/how-to-host-better-email-ma\
-      rketing-campaigns/#:~:text=When%20you%20send,a%20timely%20manner)"
+      page](https://direct-cavern.cloudvent.net/blog/how-to-host-better-email-m\
+      arketing-campaigns/#:~:text=When%20you%20send,a%20timely%20manner)"
     context:
       open: false
       title: Untranslated Text
@@ -307,16 +308,16 @@ _inputs:
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/how-to-host-better-email-ma\
-      rketing-campaigns/#:~:text=Technology)"
+      page](https://direct-cavern.cloudvent.net/blog/how-to-host-better-email-m\
+      arketing-campaigns/#:~:text=Technology)"
   words:
     label: words
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/blog/how-to-host-better-email-ma\
-      rketing-campaigns/#:~:text=words)"
+      page](https://direct-cavern.cloudvent.net/blog/how-to-host-better-email-m\
+      arketing-campaigns/#:~:text=words)"
 5-things-to-improve-your-email-templates: メールテンプレートを改善するための 5 つのこと
 7-things-you-didnt-know-about-email: 電子メールについてあなたが知らなかった 7 つのこと
 about: について

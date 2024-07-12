@@ -3,19 +3,18 @@ _inputs:
   $:
     type: object
     comment: "[See
-      categories/email/](https://polite-viper.cloudvent.net/categories/email/)"
+      categories/email/](https://direct-cavern.cloudvent.net/categories/email/)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (jp)
           comment: Text to translate on
-            [categories/email/](https://polite-viper.cloudvent.net/categories/email/)
+            [categories/email/](https://direct-cavern.cloudvent.net/categories/email/)
           inputs:
             - /TCP1dl7vw+zdvDuWYcPyAdWbbAHjTtIGyJwf/f/KfU
-            - email-delivery-tips
         - heading: Already translated (jp)
           comment: Text already translated on
-            [categories/email/](https://polite-viper.cloudvent.net/categories/email/)
+            [categories/email/](https://direct-cavern.cloudvent.net/categories/email/)
           inputs:
             - about
             - all-articles
@@ -24,6 +23,7 @@ _inputs:
             - company
             - contact
             - email
+            - email-delivery-tips
             - feature
             - home
             - main-pages
@@ -38,130 +38,133 @@ _inputs:
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/categories/email/#:~:text=)"
+      page](https://direct-cavern.cloudvent.net/categories/email/#:~:text=)"
   about:
     label: About
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/categories/email/#:~:text=About)"
+      page](https://direct-cavern.cloudvent.net/categories/email/#:~:text=About\
+      )"
   all-articles:
     label: All Articles
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/categories/email/#:~:text=All%20\
-      Articles)"
+      page](https://direct-cavern.cloudvent.net/categories/email/#:~:text=All%2\
+      0Articles)"
   blog:
     label: Blog
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/categories/email/#:~:text=Blog)"
+      page](https://direct-cavern.cloudvent.net/categories/email/#:~:text=Blog)"
   community:
     label: Community
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/categories/email/#:~:text=Commun\
-      ity)"
+      page](https://direct-cavern.cloudvent.net/categories/email/#:~:text=Commu\
+      nity)"
   company:
     label: Company
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/categories/email/#:~:text=Compan\
-      y)"
+      page](https://direct-cavern.cloudvent.net/categories/email/#:~:text=Compa\
+      ny)"
   contact:
     label: Contact
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/categories/email/#:~:text=Contac\
-      t)"
+      page](https://direct-cavern.cloudvent.net/categories/email/#:~:text=Conta\
+      ct)"
   email:
     label: Email
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/categories/email/#:~:text=Email)"
+      page](https://direct-cavern.cloudvent.net/categories/email/#:~:text=Email\
+      )"
   email-delivery-tips:
     label: Email delivery tips
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/categories/email/#:~:text=Email%\
-      20delivery%20tips)"
+      page](https://direct-cavern.cloudvent.net/categories/email/#:~:text=Email\
+      %20delivery%20tips)"
   feature:
     label: Feature
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/categories/email/#:~:text=Featur\
-      e)"
+      page](https://direct-cavern.cloudvent.net/categories/email/#:~:text=Featu\
+      re)"
   home:
     label: Home
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/categories/email/#:~:text=Home)"
+      page](https://direct-cavern.cloudvent.net/categories/email/#:~:text=Home)"
   main-pages:
     label: Main Pages
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/categories/email/#:~:text=Main%2\
-      0Pages)"
+      page](https://direct-cavern.cloudvent.net/categories/email/#:~:text=Main%\
+      20Pages)"
   marketing:
     label: Marketing
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/categories/email/#:~:text=Market\
-      ing)"
+      page](https://direct-cavern.cloudvent.net/categories/email/#:~:text=Marke\
+      ting)"
   price:
     label: Price
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/categories/email/#:~:text=Price)"
+      page](https://direct-cavern.cloudvent.net/categories/email/#:~:text=Price\
+      )"
   pricing:
     label: Pricing
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/categories/email/#:~:text=Pricin\
-      g)"
+      page](https://direct-cavern.cloudvent.net/categories/email/#:~:text=Prici\
+      ng)"
   privacy-and-policy:
     label: Privacy and Policy
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/categories/email/#:~:text=Privac\
-      y%20and%20Policy)"
+      page](https://direct-cavern.cloudvent.net/categories/email/#:~:text=Priva\
+      cy%20and%20Policy)"
   technology:
     label: Technology
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://polite-viper.cloudvent.net/categories/email/#:~:text=Techno\
-      logy)"
+      page](https://direct-cavern.cloudvent.net/categories/email/#:~:text=Techn\
+      ology)"
 /TCP1dl7vw+zdvDuWYcPyAdWbbAHjTtIGyJwf/f/KfU: ""
 about: について
 all-articles: すべての記事
